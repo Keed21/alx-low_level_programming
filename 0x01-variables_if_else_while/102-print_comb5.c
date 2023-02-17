@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 /**
  * main - prints all combinations of numbers between 0-99 separated
