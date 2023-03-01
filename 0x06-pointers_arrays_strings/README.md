@@ -1,1 +1,2 @@
 pointers to arrays
+pointers
